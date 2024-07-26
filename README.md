@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/chernyaev_i" target="_blank">Ilya</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">QA mobile 🇷🇺</h3>
-
+![](https://komarev.com/ghpvc/?username=adityakumar28&color=447ff7&label=Visitor+count)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -21,4 +21,5 @@
 ### :hammer_and_wrench: Progress :
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Plyshkaa&theme=onedark&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 
